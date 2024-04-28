@@ -15,11 +15,11 @@ user management.
 
 This application is composed of five pages:
 
-register.php: User can enter their personal information, along with their profile information.
-login.php: User logs in with their credentials (email and password).
-profile.php: User can edit their profile information and add additional information such as their address.
-index.php: Users can make posts that are up to 280 characters long. This page shall display the last 10 posts from all users in the database.
-user_list.php: Only accessible to administrators. It displays a table that consists of all the users (regular users and admins) that are 
+**register.php:** User can enter their personal information, along with their profile information.  
+**login.php:** User logs in with their credentials (email and password).  
+**profile.php:** User can edit their profile information and add additional information such as their address.  
+**index.php:** Users can make posts that are up to 280 characters long. This page shall display the last 10 posts from all users in the database.  
+**user_list.php:** Only accessible to administrators. It displays a table that consists of all the users (regular users and admins) that are 
 currently registered on the platform.
 
 Installation:
