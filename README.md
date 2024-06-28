@@ -44,4 +44,3 @@ phpMyAdmin to import your database schema.
 Credits:
 -------
 - Yash Kapoor - Developer of this project, responsible for the implementation and documentation.
-- Dr. Rami Sabouni (Course Instructor) - Designed the project guidelines.
