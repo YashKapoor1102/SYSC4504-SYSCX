@@ -31,7 +31,7 @@ Usage:
 1. Create a folder called "SYSCX" in your XAMPP's "htdocs" directory.
 2. Open a terminal or command prompt, navigate to the "SYSCX" folder, and clone the repository by typing the following command:
 ```
-git clone https://github.com/YashKapoor1102/SYSC4504-SYSCX.git
+git clone https://github.com/YashKapoor1102/Simplified-Twitter.git
 ```
 3. Start the XAMPP Control Panel and start the Apache and MySQL services.
 4. Access phpMyAdmin from your web browser, which is usually at http://localhost/phpmyadmin.
